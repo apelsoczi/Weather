@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather App</string>
+    <string name="today_label">Today in</string>
+    <string name="article_title">Article title</string>
+    <string name="article_source">By Article source</string>
+    <string name="next_three_days">Next 3 days</string>
+    <string name="news_highlights">News Highlights</string>
 </resources>
